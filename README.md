@@ -9,3 +9,5 @@ These were originally published commercially, but have now been donated to [Mobi
 
 Some of the content may be outdated. You are encouraged to contribute any fixes or changes in order to keep it as up-to-date as possible.
 
+# Lisence
+Code licensed under the [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0).
