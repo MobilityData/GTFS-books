@@ -36,13 +36,13 @@ their message to your users.
 Consider the following shape from Portland that has been rendered using
 Google Maps. The total shape consists of 1913 points.
 
-![Original Shape](images/shape-original.jpg)
+![Original Shape](images/shape-original.jpeg)
 
 Compare this now to the same shape that has had redundant points
 removed. The total number of points in this shape is 175, which
 represents about a 90% reduction.
 
-![Reduced Shape](images/shape-reduced.jpg)
+![Reduced Shape](images/shape-reduced.jpeg)
 
 If you look closely, you can see some minor loss of detail, but for the
 most part, the shapes are almost identical.
@@ -73,7 +73,7 @@ data, while a lower tolerance discards more data.*
 
 The following diagram shows what orthogonal distance means.
 
-![Orthogonal Distance](images/orthogonal-distance.jpg)
+![Orthogonal Distance](images/orthogonal-distance.jpeg)
 
 The following resources provide more information about the
 Douglas-Peucker Algorithm and describe how to implement it in your own
